@@ -1,0 +1,11 @@
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\bin\Release\LogFileCreation.exe.config
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\bin\Release\LogFileCreation.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\bin\Release\LogFileCreation.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\bin\Release\MySql.Data.dll
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\bin\Release\MySql.Data.xml
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.csprojResolveAssemblyReference.cache
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.Properties.Resources.resources
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.csproj.GenerateResource.Cache
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\LogFileCreation\LogFileCreation\obj\Release\LogFileCreation.LogCreation.resources
